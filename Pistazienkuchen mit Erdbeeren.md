@@ -29,10 +29,27 @@ Zum Garnieren:
 
 ## Rezept
 
-Für den Teig die Butter auf dem Herd schmelzen, bis sie sich bräunlich färbt (bräunlich ist nicht dasselbe wie schwarz!). Gemahlene Mandeln, fein zerstoßene Pistazien (eventuell nimmt man dafür den Pürierstab), Puderzucker und Mehl vermengen. Eiweiße kurz mit der Gabel kräftig verrühren, mit dem Vanillemark zum Teig geben. Zum Schluss die zerlassene Butter hineinrühren. Der Teig ist der eines Financiers, so werden die kleinen, sehr saftigen, fast klebrigen französischen Mandelküchlein genannt.
+Teig:
 
-Den Backofen auf 180 Grad Umluft heizen. Boden einer Springform mit Backpapier auslegen, Ränder mit Butter einfetten. Den Teig in die Form füllen und 15 bis 20 Minuten backen. Auf ein Gitter heben und – wichtig – komplett abkühlen lassen. Anschließend den Kuchen mit der Aprikosenmarmelade bestreichen.
+1. Butter auf dem Herd schmelzen, bis sie sich bräunlich färbt
+2. Gemahlene Mandeln, fein zerstoßene Pistazien (Pürierstab), Puderzucker und Mehl vermengen
+3. Eiweiße kurz mit der Gabel kräftig verrühren, mit dem Vanillemark zum Teig geben 
+4. Zum Schluss die zerlassene Butter hineinrühren
 
-Für die Creme Eigelbe mit Zucker verquirlen, bis die Masse fast weiß wird, Mascarpone und Zitronenabrieb dazugeben und noch mal verrühren. Die Creme auf dem Kuchen verteilen und glatt streichen.
+Backen:
+
+1. Backofen auf 180 Grad Umluft heizen
+2. Boden einer Springform mit Backpapier auslegen, Ränder mit Butter einfetten
+3. Teig in die Form füllen und 15 bis 20 Minuten backen
+4. Auf ein Gitter heben und – wichtig – komplett abkühlen lassen
+5. Kuchen mit der Aprikosenmarmelade bestreichen
+
+Creme:
+
+1. Eigelbe mit Zucker verquirlen, bis die Masse fast weiß wird, 
+2. Mascarpone und Zitronenabrieb dazugeben und noch mal verrühren
+3. Die Creme auf dem Kuchen verteilen und glatt streichen.
+
+Garnitur:
 
 Zerstoßene Pistazien, die man zuvor in einer Pfanne ohne Fett kurz geröstet hat, und geviertelte Erdbeeren drauf verteilen.
