@@ -7,4 +7,4 @@ This is my colletion of recipes:
 - [Linsensalat mit vielen Kräutern und Joghurt](https://crstn.github.io/nomnom/Linsensalat_mit_vielen_Kräutern_und_Joghurt)
 - [Kardamomkuchen mit frischen Beeren](https://crstn.github.io/nomnom/Kardamomkuchen_mit_frischen_Beeren)
 - [Pomodoro Sauce](https://crstn.github.io/nomnom/Pomodoro_Sauce)
-- [Pistazienkuchen mit Erdbeeren](https://crstn.github.io/nomnom/Pistazienkuchen mit Erdbeeren)
+- [Pistazienkuchen mit Erdbeeren](https://crstn.github.io/nomnom/Pistazienkuchen%20mit%20Erdbeeren)
