@@ -47,7 +47,7 @@ Backen:
 Creme:
 
 1. Eigelbe mit Zucker verquirlen, bis die Masse fast weiß wird, 
-2. Mascarpone und Zitronenabrieb dazugeben und noch mal verrühren
+2. Mascarpone und Zitronenabrieb vorsichtig unterheben (nicht zu doll rühren, sonst wird alles flüssig!)
 3. Die Creme auf dem Kuchen verteilen und glatt streichen.
 
 Garnitur:
