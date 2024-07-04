@@ -14,3 +14,4 @@ Einige meiner Lieblingsrezepte:
 - [Linsensalat mit vielen Kräutern und Joghurt](https://crstn.github.io/nomnom/Linsensalat_mit_vielen_Kräutern_und_Joghurt)
 - [Pistazienkuchen mit Erdbeeren](https://crstn.github.io/nomnom/Pistazienkuchen%20mit%20Erdbeeren)
 - [Pomodoro Sauce](https://crstn.github.io/nomnom/Pomodoro_Sauce)
+- [Zitronengugelhupf](https://crstn.github.io/nomnom/Zitronengugelhupf)
