@@ -1,5 +1,3 @@
-![](https://img.zeit.de/zeit-magazin/2019/11/fischkuechlein-kabeljau-kartoffeln-semmelbroesel/super__950x633__desktop__scale_1)
-
 # Fischküchlein
 
 ## Zutaten

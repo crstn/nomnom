@@ -1,5 +1,3 @@
-![](https://img.zeit.de/zeit-magazin/2023/35/paradiesisch-bild-1/super__400x267__mobile__scale_2)
-
 # Huhn mit Tomaten und Zitrone
 
 ## Zutaten
