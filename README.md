@@ -12,6 +12,7 @@ Einige meiner Lieblingsrezepte:
 - [Joppie Sauce](https://crstn.github.io/nomnom/Joppie_Sauce)
 - [Kardamomkuchen mit frischen Beeren](https://crstn.github.io/nomnom/Kardamomkuchen_mit_frischen_Beeren)
 - [Linsensalat mit vielen Kräutern und Joghurt](https://crstn.github.io/nomnom/Linsensalat_mit_vielen_Kräutern_und_Joghurt)
+- [Pesto-Knödelauflauf mit Spinat](https://crstn.github.io/nomnom/Pesto-Knödelauflauf)
 - [Pistazienkuchen mit Erdbeeren](https://crstn.github.io/nomnom/Pistazienkuchen%20mit%20Erdbeeren)
 - [Pomodoro Sauce](https://crstn.github.io/nomnom/Pomodoro_Sauce)
 - [Zitronengugelhupf](https://crstn.github.io/nomnom/Zitronengugelhupf)
