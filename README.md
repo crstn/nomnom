@@ -6,6 +6,7 @@ This is my colletion of recipes:
 - [Fischküchlein](https://crstn.github.io/nomnom/Fischküchlein)
 - [Gerösteter Blumenkohl](https://crstn.github.io/nomnom/Gerösteter_Blumenkohl)
 - [Geschmortes Schweinefilet](https://crstn.github.io/nomnom/Geschmortes_Schweinefilet)
+- [Gin Basil Smash](https://crstn.github.io/nomnom/Gin_Basil_Smash)
 - [Huhn mit Tomaten und Zitrone](https://crstn.github.io/nomnom/Huhn_mit_Tomaten_und_Zitrone)
 - [Joppie Sauce](https://crstn.github.io/nomnom/Joppie_Sauce)
 - [Kardamomkuchen mit frischen Beeren](https://crstn.github.io/nomnom/Kardamomkuchen_mit_frischen_Beeren)
