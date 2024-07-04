@@ -8,6 +8,7 @@ Einige meiner Lieblingsrezepte:
 - [Geschmortes Schweinefilet](https://crstn.github.io/nomnom/Geschmortes_Schweinefilet)
 - [Gin Basil Smash](https://crstn.github.io/nomnom/Gin_Basil_Smash)
 - [Huhn mit Tomaten und Zitrone](https://crstn.github.io/nomnom/Huhn_mit_Tomaten_und_Zitrone)
+- [Hummus](https://crstn.github.io/nomnom/Hummus)
 - [Joppie Sauce](https://crstn.github.io/nomnom/Joppie_Sauce)
 - [Kardamomkuchen mit frischen Beeren](https://crstn.github.io/nomnom/Kardamomkuchen_mit_frischen_Beeren)
 - [Linsensalat mit vielen Kräutern und Joghurt](https://crstn.github.io/nomnom/Linsensalat_mit_vielen_Kräutern_und_Joghurt)
