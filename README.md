@@ -4,6 +4,7 @@ This is my colletion of recipes:
 
 - [Clafoutis mit Erdbeeren, Rharbarber und Olivenöl](https://crstn.github.io/nomnom/Clafoutis_mit_Erdbeeren_Rharbarber_und_Olivenöl)
 - [Fischküchlein](https://crstn.github.io/nomnom/Fischküchlein)
+- [Geschmortes Schweinefilet](https://crstn.github.io/nomnom/Geschmortes_Schweinefilet)
 - [Huhn mit Tomaten und Zitrone](https://crstn.github.io/nomnom/Huhn_mit_Tomaten_und_Zitrone)
 - [Joppie Sauce](https://crstn.github.io/nomnom/Joppie_Sauce)
 - [Kardamomkuchen mit frischen Beeren](https://crstn.github.io/nomnom/Kardamomkuchen_mit_frischen_Beeren)
