@@ -1,6 +1,6 @@
-# Recipes
+# Kochbuch
 
-This is my colletion of recipes:
+Einige meiner Lieblingsrezepte:
 
 - [Clafoutis mit Erdbeeren, Rharbarber und Olivenöl](https://crstn.github.io/nomnom/Clafoutis_mit_Erdbeeren_Rharbarber_und_Olivenöl)
 - [Fischküchlein](https://crstn.github.io/nomnom/Fischküchlein)
