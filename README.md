@@ -15,4 +15,5 @@ Einige meiner Lieblingsrezepte:
 - [Pesto-Knödelauflauf mit Spinat](https://crstn.github.io/nomnom/Pesto-Knödelauflauf)
 - [Pistazienkuchen mit Erdbeeren](https://crstn.github.io/nomnom/Pistazienkuchen%20mit%20Erdbeeren)
 - [Pomodoro Sauce](https://crstn.github.io/nomnom/Pomodoro_Sauce)
+- [Remoulade](https://crstn.github.io/nomnom/Remoulade)
 - [Zitronengugelhupf](https://crstn.github.io/nomnom/Zitronengugelhupf)
