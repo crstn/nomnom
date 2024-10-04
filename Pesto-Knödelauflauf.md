@@ -22,6 +22,6 @@ Für 4 Personen
 6. Über die Knödel und das Gemüse gießen, dann mit Käse bestreuen
 7. Bei 200 Grad Ober-/Unterhitze circa 40 Minuten im Ofen überbacken
 
-### Credits
+---
 
-https://www.zeit.de/zeit-magazin/wochenmarkt/2024-03/pesto-knoedelauflauf-spinat-antonia-elena-zimmermann-sonntagsessen 
+Aus [Zeit Magazin 2024-03](https://www.zeit.de/zeit-magazin/wochenmarkt/2024-03/pesto-knoedelauflauf-spinat-antonia-elena-zimmermann-sonntagsessen)
