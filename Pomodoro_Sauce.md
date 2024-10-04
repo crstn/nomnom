@@ -24,8 +24,6 @@
 
 Spaghetti bis kurz vor *al dente* kochen, dann in eine Pfanne mit der Sauce geben und in der Sauce mit etwas Pastawasser fertigkochen. Mit Parmsen und Olivenöl servieren.
 
-### Credits
+---
 
-Abgeguckt hier:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mQvQaDuqIvM/0.jpg)](https://www.youtube.com/watch?v=mQvQaDuqIvM)
+Von [Epicurious](https://img.youtube.com/vi/mQvQaDuqIvM/0.jpg)
