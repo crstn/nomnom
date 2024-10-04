@@ -18,6 +18,6 @@
 3. Im zweiten Schritt die 120 g Tahini in den Mixer geben und ordentlich durchmixen. Langsam das kalte Wasser und das Kichererbsenwasser ins laufende Messer zugießen. Es sollte eine helle, fluffige Masse entstehen.
 4. Im letzten Schritt die Kichererbsen, 1-2 EL Olivenöl und ½ TL Kreuzkümmel zugeben und mind. 3 Minuten mixen bis eine cremige, zarte Masse entsteht. Mit Salz und Zitronensaft abschmecken. 
 
-### Credits
+---
 
-https://www.schuesselglueck.de/perfekten-hummus-selber-machen/
+Von [Schüsselglück](https://www.schuesselglueck.de/perfekten-hummus-selber-machen/)
