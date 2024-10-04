@@ -24,6 +24,6 @@ Für 4 Personen:
 7. Zehn Minuten lang ruhen lassen
 8. In etwas Olivenöl in der Pfanne von beiden Seiten anbraten
 
-## Credits
+---
 
-https://www.zeit.de/zeit-magazin/2019/11/fischkuechlein-kabeljau-kartoffeln-semmelbroesel-wochenmarkt
+Aus [Zeit Magazin 2019-11](https://www.zeit.de/zeit-magazin/2019/11/fischkuechlein-kabeljau-kartoffeln-semmelbroesel-wochenmarkt)
