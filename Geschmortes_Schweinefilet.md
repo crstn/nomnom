@@ -29,6 +29,6 @@ Für 4-6 Personen
 5. Den Bräter 90–120 Minuten lang in den Ofen schieben, bis das Schweinefleisch gar ist. 30 Minuten vor Ende der Garzeit Gnocchi und Sahne in den Bräter füllen. Alternativ können die Gnocchi auch separat mit Butter angebraten werden. 
 6. Das Gericht mit jungem Spinat und Mikrokräutern garnieren und servieren.
 
-### Credits
+---
 
-https://www.lecreuset.de/de_DE/geschmortes-schweinefilet-mit-champignons-spinat-und-gnocchi-in-cremiger-sauce/r0000000000998.html
+Von [LeCreuset](https://www.lecreuset.de/de_DE/geschmortes-schweinefilet-mit-champignons-spinat-und-gnocchi-in-cremiger-sauce/r0000000000998.html)
