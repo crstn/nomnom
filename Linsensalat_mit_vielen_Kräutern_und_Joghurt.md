@@ -30,4 +30,4 @@
 9. Joghurt, Milch und Sahne vermengen, Zitronenabrieb hinzugeben.
 10. Zum Anrichten zunächst etwas Linsen auf einen Teller geben, dann etwas frische Minze, die Joghurtsoße und die frittierten Knoblauchscheibchen.
 
-Aus https://www.zeit.de/zeit-magazin/2023/25/linsensaltat-kraeuter-joghurt-rezept-wochenmarkt
+Aus [Zeit Magazin 2023-05](https://www.zeit.de/zeit-magazin/2023/25/linsensaltat-kraeuter-joghurt-rezept-wochenmarkt)
