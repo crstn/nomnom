@@ -31,6 +31,6 @@
 13. In einem kleinen Topf Sahne aufkochen und sofort wieder von der Platte nehmen. 
 14. Die Schokolade zufügen und unter ständigem Rühren schmelzen lassen. Gleichmäßig über den Gugelhupf gießen.
 
-### Credits
+---
 
-https://www.zeit.de/zeit-magazin/essen-trinken/2018-09/zitronengugelhupf-suessspeise-kuchen-rezept-kueche-sonntagsessen
+Aus [Zeit Magazin 2018-09](https://www.zeit.de/zeit-magazin/essen-trinken/2018-09/zitronengugelhupf-suessspeise-kuchen-rezept-kueche-sonntagsessen)
