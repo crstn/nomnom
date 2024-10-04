@@ -27,6 +27,6 @@
 8. Für eine halbe Stunde in den Ofen. Dann mit einer Gabel testen, ob er gar ist. Falls er außen schon zu dunkel sein sollte, mit Alufolie abdecken und weitergaren
 9. Wenn der Blumekohl gar ist: Herausnehmen und mit Parmesan und Petersilie bestreuen
 
-### Credits
+---
 
-https://splendido-magazin.de/geroesteter-blumenkohl-2/
+Aus [Splendido Magazin](https://splendido-magazin.de/geroesteter-blumenkohl-2/)
