@@ -26,6 +26,6 @@
 4. Mit den Kräutern zusammen unter die Mayonnaise heben.
 5. Joghurt und Crème Fraîche unterrühren.
 
-## Credits
+---
 
-https://www.chefkoch.de/rezepte/1300431235136361/Gourmet-Remoulade.html
+Vom [Chef](https://www.chefkoch.de/rezepte/1300431235136361/Gourmet-Remoulade.html)
